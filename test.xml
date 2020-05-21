@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tableau>
+    <station>
+        <id>1</id>
+        <position>
+            <lat>-79.4512</lat>
+            <lng>43.6568</lng>
+        </position>
+        <temp>25.10</temp>
+        <alt>880</alt>
+    </station>
+    <global>
+        <temperature>2510</temperature>
+        <altitude>880</altitude>
+        <count>1</count>
+        <zone>
+            <NE>
+                <lat>-79.0000</lat>
+                <lng>-78.5000</lng>
+            </NE>
+            <SW>
+                <lat>-69.0000</lat>
+                <lng>-69.5000</lng>
+            </SW>
+        </zone>
+    </global>
+</tableau>
